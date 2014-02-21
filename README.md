@@ -1,4 +1,4 @@
 newspapers
 ==========
 
-LOC-style newspaper 
+LOC-style newspaper viewer software for Willard Library
