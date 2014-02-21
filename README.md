@@ -1,0 +1,4 @@
+newspapers
+==========
+
+LOC-style newspaper 
